@@ -152,27 +152,11 @@ public ActionResult Get([FromQuery]string productId, [FromQuery]int Rating)
 }
 ```
 
-
-
-
-
-
-
 ## Add Blazer Page
 Blazor 應用程式是以 元件(Components)
 為基礎。 
 
 ```dotnet new razorcomponent -n YOUBLAZORPAGENAME```
-
-
-
-
-
-
-
-
-
-
 ## Publish an ASP.NET Core app to Azure with Visual Studio Code
 ### Generate the deployment package locally
 
