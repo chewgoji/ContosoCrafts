@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/8UnfF9-0SWaxdGlPDprWVg/badge)](https://hackmd.io/8UnfF9-0SWaxdGlPDprWVg)
 ## Asp.net
 * 由微軟支持並開發的一套跨平臺web框架
 * Razor Page 運用 HTML 與 C#
